@@ -1,0 +1,118 @@
+[2025-10-03 18:23:41] INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-03 18:23:41] INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-03 18:23:41] INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-03 18:23:41] INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-03 18:23:41] INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-03 18:23:41] INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-03 18:23:41] INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-03 18:23:41] INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-03 18:23:41] INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-03 18:23:41] INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-03 18:23:41] INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-03 18:23:41] INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-03 18:23:41] INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-03 18:23:41] INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-03 18:23:41] INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-03 18:23:41] INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-03 18:23:41] INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+[2025-10-03 18:23:41] INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+[2025-10-03 18:23:41] INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-03 18:23:41] INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-03 18:23:41] INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-03 18:23:41] INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-03 18:23:41] INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-03 18:23:41] INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-03 18:23:41] INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-03 18:23:41] INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-03 18:23:41] INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-03 18:23:41] INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-03 18:23:41] INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-03 18:23:41] INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-03 18:23:41] INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Administrator\AppData\Local\Temp\testng-eclipse-1937033472\testng-customsuite.xml
+
+[2025-10-03 18:23:41] INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+[2025-10-03 18:23:41] INFO  WebDriverManager:1268 - Using chromedriver 141.0.7390.54 (resolved driver for Chrome 141)
+[2025-10-03 18:23:41] INFO  WebDriverManager:1331 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\141.0.7390.54\chromedriver.exe
+[2025-10-03 18:23:45] INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@68577ba8: 70 ms
+[2025-10-03 18:23:45] INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@4088741b: 15 ms
+[2025-10-03 18:23:45] INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@760cf594: 15 ms
+[2025-10-03 18:23:45] INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@173797f0: 9 ms
+[2025-10-03 18:23:45] INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@69a2b3b6: 15 ms
+[2025-10-03 18:23:45] INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4f3e7344: 1 ms
+[2025-10-03 18:24:02] INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-03 18:24:02] INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-03 18:24:02] INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-03 18:24:02] INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-03 18:24:02] INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-03 18:24:02] INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-03 18:24:02] INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-03 18:24:02] INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-03 18:24:02] INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-03 18:24:02] INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-03 18:24:02] INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-03 18:24:02] INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-03 18:24:02] INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-03 18:24:02] INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-03 18:24:02] INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-03 18:24:02] INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-03 18:24:02] INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+[2025-10-03 18:24:02] INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+[2025-10-03 18:24:02] INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-03 18:24:02] INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-03 18:24:02] INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-03 18:24:02] INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-03 18:24:02] INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-03 18:24:02] INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-10-03 18:24:02] INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-03 18:24:02] INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-03 18:24:02] INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-03 18:24:02] INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-03 18:24:02] INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-10-03 18:24:02] INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-10-03 18:24:02] INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Administrator\AppData\Local\Temp\testng-eclipse-340356185\testng-customsuite.xml
+
+[2025-10-03 18:24:02] INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+[2025-10-03 18:24:02] INFO  WebDriverManager:1268 - Using chromedriver 141.0.7390.54 (resolved driver for Chrome 141)
+[2025-10-03 18:24:02] INFO  WebDriverManager:1331 - Exporting webdriver.chrome.driver as C:\Users\Administrator\.cache\selenium\chromedriver\win64\141.0.7390.54\chromedriver.exe
+[2025-10-03 18:24:04] INFO  LoginTest:17 - Starting valid login test
+[2025-10-03 18:24:04] INFO  LoginTest:21 - Accepting cookies
+[2025-10-03 18:24:08] INFO  LoginTest:24 - Clicking on account button
+[2025-10-03 18:24:10] INFO  LoginTest:27 - Entering valid email
+[2025-10-03 18:24:11] INFO  LoginTest:30 - Entering valid password
+[2025-10-03 18:24:11] INFO  LoginTest:33 - Clicking sign-in button
+[2025-10-03 18:24:11] INFO  LoginTest:36 - Login test completed successfully
+[2025-10-03 18:24:13] INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@4fc142ec: 45 ms
+[2025-10-03 18:24:13] INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@1b9776f5: 1 ms
+[2025-10-03 18:24:13] INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@14229fa7: 5 ms
+[2025-10-03 18:24:13] INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@53ed09e8: 7 ms
+[2025-10-03 18:24:13] INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@18acfe88: 5 ms
+[2025-10-03 18:24:13] INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@8a2a6a: 0 ms
+[2025-10-03 18:25:08] INFO  WebDriverManager:1268 - Using chromedriver 141.0.7390.54 (resolved driver for Chrome 141)
+[2025-10-03 18:25:08] INFO  WebDriverManager:1331 - Exporting webdriver.chrome.driver as C:\Windows\system32\config\systemprofile\.cache\selenium\chromedriver\win64\141.0.7390.54\chromedriver.exe
+[2025-10-03 18:25:17] INFO  LoginTest:17 - Starting valid login test
+[2025-10-03 18:25:17] INFO  LoginTest:21 - Accepting cookies
+[2025-10-03 18:25:17] INFO  LoginTest:24 - Clicking on account button
+[2025-10-03 18:25:18] INFO  LoginTest:27 - Entering valid email
+[2025-10-03 18:25:18] INFO  LoginTest:30 - Entering valid password
+[2025-10-03 18:25:19] INFO  LoginTest:33 - Clicking sign-in button
+[2025-10-03 18:25:19] INFO  LoginTest:36 - Login test completed successfully
+[2025-10-03 18:28:39] INFO  WebDriverManager:1268 - Using chromedriver 141.0.7390.54 (resolved driver for Chrome 141)
+[2025-10-03 18:28:39] INFO  WebDriverManager:1331 - Exporting webdriver.chrome.driver as C:\Windows\system32\config\systemprofile\.cache\selenium\chromedriver\win64\141.0.7390.54\chromedriver.exe
+[2025-10-03 18:28:50] INFO  LoginTest:17 - Starting valid login test
+[2025-10-03 18:28:50] INFO  LoginTest:21 - Accepting cookies
+[2025-10-03 18:28:50] INFO  LoginTest:24 - Clicking on account button
+[2025-10-03 18:28:51] INFO  LoginTest:27 - Entering valid email
+[2025-10-03 18:28:52] INFO  LoginTest:30 - Entering valid password
+[2025-10-03 18:28:52] INFO  LoginTest:33 - Clicking sign-in button
+[2025-10-03 18:28:52] INFO  LoginTest:36 - Login test completed successfully
+[2025-10-03 18:37:34] INFO  WebDriverManager:1268 - Using chromedriver 141.0.7390.54 (resolved driver for Chrome 141)
+[2025-10-03 18:37:34] INFO  WebDriverManager:1331 - Exporting webdriver.chrome.driver as C:\Windows\system32\config\systemprofile\.cache\selenium\chromedriver\win64\141.0.7390.54\chromedriver.exe
+[2025-10-03 18:37:40] INFO  LoginTest:17 - Starting valid login test
+[2025-10-03 18:37:40] INFO  LoginTest:21 - Accepting cookies
+[2025-10-03 18:37:40] INFO  LoginTest:24 - Clicking on account button
+[2025-10-03 18:37:42] INFO  LoginTest:27 - Entering valid email
+[2025-10-03 18:37:42] INFO  LoginTest:30 - Entering valid password
+[2025-10-03 18:37:42] INFO  LoginTest:33 - Clicking sign-in button
+[2025-10-03 18:37:42] INFO  LoginTest:36 - Login test completed successfully
