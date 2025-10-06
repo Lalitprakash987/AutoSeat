@@ -2,20 +2,27 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-10-03T18:37:33 IST" name="Surefire suite" finished-at="2025-10-03T18:37:43 IST" duration-ms="9339">
+  <suite started-at="2025-10-06T18:05:30 IST" name="Surefire suite" finished-at="2025-10-06T18:06:04 IST" duration-ms="33229">
     <groups>
     </groups>
-    <test started-at="2025-10-03T18:37:33 IST" name="Surefire test" finished-at="2025-10-03T18:37:43 IST" duration-ms="9339">
+    <test started-at="2025-10-06T18:05:30 IST" name="Surefire test" finished-at="2025-10-06T18:06:04 IST" duration-ms="33229">
       <class name="com.autoseat.tests.LoginTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.autoseat.tests.LoginTest@55dfebeb]" started-at="2025-10-03T18:37:34 IST" name="setUp" finished-at="2025-10-03T18:37:40 IST" duration-ms="6584" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.autoseat.tests.LoginTest@5d9b7a8a]" started-at="2025-10-06T18:05:30 IST" name="setUp" finished-at="2025-10-06T18:06:00 IST" duration-ms="29324" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="validLoginTest()[pri:1, instance:com.autoseat.tests.LoginTest@55dfebeb]" started-at="2025-10-03T18:37:40 IST" name="validLoginTest" finished-at="2025-10-03T18:37:42 IST" duration-ms="2202" status="PASS">
+        <test-method signature="validLoginTest()[pri:1, instance:com.autoseat.tests.LoginTest@5d9b7a8a]" started-at="2025-10-06T18:06:00 IST" name="validLoginTest" finished-at="2025-10-06T18:06:03 IST" duration-ms="3591" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validLoginTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.autoseat.tests.LoginTest@55dfebeb]" started-at="2025-10-03T18:37:42 IST" name="tearDown" finished-at="2025-10-03T18:37:43 IST" duration-ms="499" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.autoseat.tests.LoginTest@5d9b7a8a]" started-at="2025-10-06T18:06:03 IST" name="tearDown" finished-at="2025-10-06T18:06:04 IST" duration-ms="271" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

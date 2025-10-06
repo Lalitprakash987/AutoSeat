@@ -1,25 +1,139 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="3" passed="2" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-10-03T18:24:02 IST" name="Default suite" finished-at="2025-10-03T18:24:13 IST" duration-ms="10940">
+  <suite started-at="2025-10-06T17:08:11 IST" name="CrossBrowserSuite" finished-at="2025-10-06T17:09:01 IST" duration-ms="50673">
     <groups>
     </groups>
-    <test started-at="2025-10-03T18:24:02 IST" name="Default test" finished-at="2025-10-03T18:24:13 IST" duration-ms="10940">
+    <test started-at="2025-10-06T17:08:11 IST" name="EdgeTest" finished-at="2025-10-06T17:08:45 IST" duration-ms="34605">
       <class name="com.autoseat.tests.LoginTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.autoseat.tests.LoginTest@5c8504fd]" started-at="2025-10-03T18:24:02 IST" name="setUp" finished-at="2025-10-03T18:24:04 IST" duration-ms="1822" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.autoseat.tests.LoginTest@39ad977d]" started-at="2025-10-06T17:08:11 IST" name="setUp" finished-at="2025-10-06T17:08:24 IST" duration-ms="13052" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="validLoginTest()[pri:1, instance:com.autoseat.tests.LoginTest@5c8504fd]" started-at="2025-10-03T18:24:04 IST" name="validLoginTest" finished-at="2025-10-03T18:24:11 IST" duration-ms="7940" status="PASS">
+        <test-method signature="validLoginTest()[pri:1, instance:com.autoseat.tests.LoginTest@39ad977d]" started-at="2025-10-06T17:08:24 IST" name="validLoginTest" finished-at="2025-10-06T17:08:40 IST" duration-ms="16519" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validLoginTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.autoseat.tests.LoginTest@5c8504fd]" started-at="2025-10-03T18:24:11 IST" name="tearDown" finished-at="2025-10-03T18:24:13 IST" duration-ms="1129" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.autoseat.tests.LoginTest@39ad977d]" started-at="2025-10-06T17:08:40 IST" name="tearDown" finished-at="2025-10-06T17:08:45 IST" duration-ms="4983" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.autoseat.tests.LoginTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- EdgeTest -->
+    <test started-at="2025-10-06T17:08:11 IST" name="ChromeTest" finished-at="2025-10-06T17:08:47 IST" duration-ms="36118">
+      <class name="com.autoseat.tests.LoginTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.autoseat.tests.LoginTest@3d3ba765]" started-at="2025-10-06T17:08:11 IST" name="setUp" finished-at="2025-10-06T17:08:23 IST" duration-ms="12282" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validLoginTest()[pri:1, instance:com.autoseat.tests.LoginTest@3d3ba765]" started-at="2025-10-06T17:08:23 IST" name="validLoginTest" finished-at="2025-10-06T17:08:45 IST" duration-ms="22442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.autoseat.tests.LoginTest@3d3ba765]" started-at="2025-10-06T17:08:45 IST" name="tearDown" finished-at="2025-10-06T17:08:47 IST" duration-ms="1341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.autoseat.tests.LoginTest -->
+    </test> <!-- ChromeTest -->
+    <test started-at="2025-10-06T17:08:11 IST" name="FirefoxTest" finished-at="2025-10-06T17:09:01 IST" duration-ms="50673">
+      <class name="com.autoseat.tests.LoginTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.autoseat.tests.LoginTest@17a87e37]" started-at="2025-10-06T17:08:11 IST" name="setUp" finished-at="2025-10-06T17:08:51 IST" duration-ms="40067" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validLoginTest()[pri:1, instance:com.autoseat.tests.LoginTest@17a87e37]" started-at="2025-10-06T17:08:51 IST" name="validLoginTest" finished-at="2025-10-06T17:08:53 IST" duration-ms="2470" status="FAIL">
+          <exception class="org.openqa.selenium.ElementClickInterceptedException">
+            <message>
+              <![CDATA[Element <button class="button button--primary m-0"> is not clickable at point (549,618) because another element <section id="shopify-pc__banner" class="shopify-pc__banner__dialog"> obscures it
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [df4f596c-7d17-47b2-9465-f2af476cd52e, clickElement {id=76dc928a-72d2-417a-ac29-ff12295ea214}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 143.0.3, moz:accessibilityChecks: false, moz:buildID: 20250929153833, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 15496, moz:profile: C:\Users\ADMINI~1\AppData\L..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Element: [[FirefoxDriver: firefox on windows (df4f596c-7d17-47b2-9465-f2af476cd52e)] -> xpath: //button[normalize-space()='Sign in']]
+Session ID: df4f596c-7d17-47b2-9465-f2af476cd52e]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementClickInterceptedException: Element <button class="button button--primary m-0"> is not clickable at point (549,618) because another element <section id="shopify-pc__banner" class="shopify-pc__banner__dialog"> obscures it
+Build info: version: '4.35.0', revision: '1c58e5028b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [df4f596c-7d17-47b2-9465-f2af476cd52e, clickElement {id=76dc928a-72d2-417a-ac29-ff12295ea214}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 143.0.3, moz:accessibilityChecks: false, moz:buildID: 20250929153833, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 15496, moz:profile: C:\Users\ADMINI~1\AppData\L..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Element: [[FirefoxDriver: firefox on windows (df4f596c-7d17-47b2-9465-f2af476cd52e)] -> xpath: //button[normalize-space()='Sign in']]
+Session ID: df4f596c-7d17-47b2-9465-f2af476cd52e
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:557)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:76)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+at jdk.proxy2/jdk.proxy2.$Proxy28.click(Unknown Source)
+at com.autoseat.pages.LoginPage.clickSigninButton(LoginPage.java:48)
+at com.autoseat.tests.LoginTest.validLoginTest(LoginTest.java:34)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+at java.base/java.lang.Thread.run(Thread.java:1583)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementClickInterceptedException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.autoseat.tests.LoginTest@17a87e37]" started-at="2025-10-06T17:08:53 IST" name="tearDown" finished-at="2025-10-06T17:09:01 IST" duration-ms="8079" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.autoseat.tests.LoginTest -->
+    </test> <!-- FirefoxTest -->
+  </suite> <!-- CrossBrowserSuite -->
 </testng-results>
